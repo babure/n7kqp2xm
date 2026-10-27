@@ -7,7 +7,7 @@ Traders need two things before N2EX gate (~09:50 UK on D−1):
 1. The latest Elexon **WINDFOR** publish still available at gate for the delivery day.
 2. Quantified error versus **FUELHH** WIND outturn, to size residual cover.
 
-Live app: _<paste Render URL after deploy>_
+Live app: https://n7kqp2xm-wind.onrender.com/
 
 ## Repository layout
 
