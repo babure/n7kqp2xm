@@ -1,0 +1,17 @@
+.git
+.cursor
+**/__pycache__
+**/.venv
+**/node_modules
+**/dist
+backend/data/cache/*
+!backend/data/cache/.gitkeep
+*.docx
+*.plan.md
+frontend/dist
+agent-transcripts
+.pytest_cache
+**/.env
+README.md
+docs
+.github

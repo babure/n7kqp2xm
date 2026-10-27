@@ -1,0 +1,470 @@
+[
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T00:30:00Z",
+    "startTime": "2026-01-15T00:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 1,
+    "fuelType": "WIND",
+    "generation": 5050
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T01:00:00Z",
+    "startTime": "2026-01-15T00:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 2,
+    "fuelType": "WIND",
+    "generation": 5060
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T01:30:00Z",
+    "startTime": "2026-01-15T01:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 3,
+    "fuelType": "WIND",
+    "generation": 5070
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T02:00:00Z",
+    "startTime": "2026-01-15T01:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 4,
+    "fuelType": "WIND",
+    "generation": 5080
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T02:30:00Z",
+    "startTime": "2026-01-15T02:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 5,
+    "fuelType": "WIND",
+    "generation": 5090
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T03:00:00Z",
+    "startTime": "2026-01-15T02:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 6,
+    "fuelType": "WIND",
+    "generation": 5100
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T03:30:00Z",
+    "startTime": "2026-01-15T03:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 7,
+    "fuelType": "WIND",
+    "generation": 5110
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T04:00:00Z",
+    "startTime": "2026-01-15T03:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 8,
+    "fuelType": "WIND",
+    "generation": 5120
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T04:30:00Z",
+    "startTime": "2026-01-15T04:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 9,
+    "fuelType": "WIND",
+    "generation": 5130
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T05:00:00Z",
+    "startTime": "2026-01-15T04:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 10,
+    "fuelType": "WIND",
+    "generation": 5140
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T05:30:00Z",
+    "startTime": "2026-01-15T05:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 11,
+    "fuelType": "WIND",
+    "generation": 5150
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T06:00:00Z",
+    "startTime": "2026-01-15T05:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 12,
+    "fuelType": "WIND",
+    "generation": 5160
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T06:30:00Z",
+    "startTime": "2026-01-15T06:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 13,
+    "fuelType": "WIND",
+    "generation": 5170
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T07:00:00Z",
+    "startTime": "2026-01-15T06:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 14,
+    "fuelType": "WIND",
+    "generation": 5180
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T07:30:00Z",
+    "startTime": "2026-01-15T07:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 15,
+    "fuelType": "WIND",
+    "generation": 5190
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T08:00:00Z",
+    "startTime": "2026-01-15T07:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 16,
+    "fuelType": "WIND",
+    "generation": 5200
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T08:30:00Z",
+    "startTime": "2026-01-15T08:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 17,
+    "fuelType": "WIND",
+    "generation": 5210
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T09:00:00Z",
+    "startTime": "2026-01-15T08:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 18,
+    "fuelType": "WIND",
+    "generation": 5220
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T09:30:00Z",
+    "startTime": "2026-01-15T09:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 19,
+    "fuelType": "WIND",
+    "generation": 5230
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T10:00:00Z",
+    "startTime": "2026-01-15T09:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 20,
+    "fuelType": "WIND",
+    "generation": 5240
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T10:30:00Z",
+    "startTime": "2026-01-15T10:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 21,
+    "fuelType": "WIND",
+    "generation": 5250
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T11:00:00Z",
+    "startTime": "2026-01-15T10:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 22,
+    "fuelType": "WIND",
+    "generation": 5260
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T11:30:00Z",
+    "startTime": "2026-01-15T11:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 23,
+    "fuelType": "WIND",
+    "generation": 5270
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T12:00:00Z",
+    "startTime": "2026-01-15T11:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 24,
+    "fuelType": "WIND",
+    "generation": 5280
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T12:30:00Z",
+    "startTime": "2026-01-15T12:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 25,
+    "fuelType": "WIND",
+    "generation": 5290
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T13:00:00Z",
+    "startTime": "2026-01-15T12:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 26,
+    "fuelType": "WIND",
+    "generation": 5300
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T13:30:00Z",
+    "startTime": "2026-01-15T13:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 27,
+    "fuelType": "WIND",
+    "generation": 5310
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T14:00:00Z",
+    "startTime": "2026-01-15T13:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 28,
+    "fuelType": "WIND",
+    "generation": 5320
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T14:30:00Z",
+    "startTime": "2026-01-15T14:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 29,
+    "fuelType": "WIND",
+    "generation": 5330
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T15:00:00Z",
+    "startTime": "2026-01-15T14:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 30,
+    "fuelType": "WIND",
+    "generation": 5340
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T15:30:00Z",
+    "startTime": "2026-01-15T15:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 31,
+    "fuelType": "WIND",
+    "generation": 5350
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T16:00:00Z",
+    "startTime": "2026-01-15T15:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 32,
+    "fuelType": "WIND",
+    "generation": 5360
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T16:30:00Z",
+    "startTime": "2026-01-15T16:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 33,
+    "fuelType": "WIND",
+    "generation": 5370
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T17:00:00Z",
+    "startTime": "2026-01-15T16:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 34,
+    "fuelType": "WIND",
+    "generation": 5380
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T17:30:00Z",
+    "startTime": "2026-01-15T17:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 35,
+    "fuelType": "WIND",
+    "generation": 5390
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T18:00:00Z",
+    "startTime": "2026-01-15T17:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 36,
+    "fuelType": "WIND",
+    "generation": 5400
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T18:30:00Z",
+    "startTime": "2026-01-15T18:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 37,
+    "fuelType": "WIND",
+    "generation": 5410
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T19:00:00Z",
+    "startTime": "2026-01-15T18:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 38,
+    "fuelType": "WIND",
+    "generation": 5420
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T19:30:00Z",
+    "startTime": "2026-01-15T19:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 39,
+    "fuelType": "WIND",
+    "generation": 5430
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T20:00:00Z",
+    "startTime": "2026-01-15T19:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 40,
+    "fuelType": "WIND",
+    "generation": 5440
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T20:30:00Z",
+    "startTime": "2026-01-15T20:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 41,
+    "fuelType": "WIND",
+    "generation": 5450
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T21:00:00Z",
+    "startTime": "2026-01-15T20:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 42,
+    "fuelType": "WIND",
+    "generation": 5460
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T21:30:00Z",
+    "startTime": "2026-01-15T21:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 43,
+    "fuelType": "WIND",
+    "generation": 5470
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T22:00:00Z",
+    "startTime": "2026-01-15T21:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 44,
+    "fuelType": "WIND",
+    "generation": 5480
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T22:30:00Z",
+    "startTime": "2026-01-15T22:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 45,
+    "fuelType": "WIND",
+    "generation": 5490
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T23:00:00Z",
+    "startTime": "2026-01-15T22:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 46,
+    "fuelType": "WIND",
+    "generation": 5500
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-15T23:30:00Z",
+    "startTime": "2026-01-15T23:00:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 47,
+    "fuelType": "WIND",
+    "generation": 5510
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-16T00:00:00Z",
+    "startTime": "2026-01-15T23:30:00Z",
+    "settlementDate": "2026-01-15",
+    "settlementPeriod": 48,
+    "fuelType": "WIND",
+    "generation": 5520
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-01T00:30:00Z",
+    "startTime": "2026-01-01T00:00:00Z",
+    "settlementDate": "2026-01-01",
+    "settlementPeriod": 1,
+    "fuelType": "WIND",
+    "generation": 2100
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-01T01:00:00Z",
+    "startTime": "2026-01-01T00:30:00Z",
+    "settlementDate": "2026-01-01",
+    "settlementPeriod": 2,
+    "fuelType": "WIND",
+    "generation": 2100
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-01T01:30:00Z",
+    "startTime": "2026-01-01T01:00:00Z",
+    "settlementDate": "2026-01-01",
+    "settlementPeriod": 3,
+    "fuelType": "WIND",
+    "generation": 2100
+  },
+  {
+    "dataset": "FUELHH",
+    "publishTime": "2026-01-01T02:00:00Z",
+    "startTime": "2026-01-01T01:30:00Z",
+    "settlementDate": "2026-01-01",
+    "settlementPeriod": 4,
+    "fuelType": "WIND",
+    "generation": 2100
+  }
+]

@@ -1,0 +1,1 @@
+"""Gridbricks backend — UK day-ahead wind forecast pilot."""
