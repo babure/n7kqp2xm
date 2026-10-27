@@ -50,5 +50,6 @@ Thumbs.db
 *.swp
 *~
 
-# Heroku / local
+# Hosting / local
 .heroku/
+.render/

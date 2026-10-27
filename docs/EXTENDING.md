@@ -19,7 +19,7 @@ Env / config  →  AnalysisWindow  →  refresh job (Elexon fetch)
 
 ## Change the window (typical path)
 
-1. **Set environment variables** (Docker / Heroku / shell):
+1. **Set environment variables** (Docker / Render / shell):
 
 ```bash
 export GRIDBRICKS_DELIVERY_FROM=2026-02-01

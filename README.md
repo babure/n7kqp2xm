@@ -7,7 +7,7 @@ Traders need two things before N2EX gate (~09:50 UK on D−1):
 1. The latest Elexon **WINDFOR** publish still available at gate for the delivery day.
 2. Quantified error versus **FUELHH** WIND outturn, to size residual cover.
 
-Live app: _<paste Heroku URL after deploy>_
+Live app: _<paste Render URL after deploy>_
 
 ## Repository layout
 
@@ -23,6 +23,7 @@ frontend/                React + Vite + TypeScript SPA
 docs/                    Architecture + how to extend the window
 Dockerfile               Multi-stage image (SPA + API)
 docker-compose.yml       One-command local run
+render.yaml              Render Blueprint (Docker web service)
 .github/workflows/ci.yml Backend pytest on push
 ```
 
@@ -91,15 +92,18 @@ OpenAPI: `/docs`
 
 **Gate assumption:** N2EX day-ahead gate at **09:50 Europe/London** on day D−1. Documented in code and OpenAPI; change in one place (`app/decision.py`) if the desk uses a different cutoff.
 
-## Deploy (Heroku container)
+## Deploy (Render)
 
-```bash
-heroku create <anonymous-app-name>
-heroku stack:set container
-git push heroku main
-```
+The app ships as one Docker image (React build + FastAPI). On Render:
 
-Or build/run the same image anywhere that speaks Docker. Set `PORT` as provided by the host.
+1. Go to [Render Dashboard](https://dashboard.render.com/) → **New** → **Blueprint**.
+2. Connect the GitHub repo `babure/n7kqp2xm` and apply `render.yaml`.
+3. Wait for the first Docker build (several minutes). On boot the API cold-refreshes Elexon data — the UI shows a skeleton until `cache_ready` is true.
+4. Paste the public URL into **Live app** above.
+
+**Manual (no Blueprint):** New → Web Service → connect repo → **Docker** runtime → root Dockerfile. Health check path: `/api/v1/health`. Free plan is fine for the pilot (service may sleep when idle).
+
+`PORT` is set by Render; the container already binds `0.0.0.0:$PORT`.
 
 ## AI tools
 

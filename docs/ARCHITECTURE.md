@@ -31,7 +31,7 @@ This deliberately ignores forecast revisions published after the trader would ha
 
 ## Why not Celery here
 
-A single Heroku/Docker process keeps the pilot deployable in one URL. The job API (`POST/GET /api/v1/jobs/refresh`) is intentionally worker-shaped so a Redis/Celery (or RQ) worker can replace the in-process task without changing clients.
+A single Docker process (local Compose or Render) keeps the pilot deployable in one URL. The job API (`POST/GET /api/v1/jobs/refresh`) is intentionally worker-shaped so a Redis/Celery (or RQ) worker can replace the in-process task without changing clients.
 
 ## Data sources
 
